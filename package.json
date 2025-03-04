@@ -1,0 +1,16 @@
+{
+  "name": "04-03-2024",
+  "version": "1.0.0",
+  "description": "Sample Node.js project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "ISC"
+}
